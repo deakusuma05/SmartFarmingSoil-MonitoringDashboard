@@ -32,5 +32,6 @@ repo_github/
 
 ## Live Dashboard:
 
-Aplikasi ini dideploy ke Streamlit Community Cloud dan dapat diakses di: [Link Dashboard Anda di Streamlit Cloud]
+Aplikasi ini dideploy ke Streamlit Community Cloud dan dapat diakses di: [https://smartfarmingsoil-monitoringdashboard-deakusumaningrum.streamlit.app/]
+
 
